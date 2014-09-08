@@ -1,0 +1,112 @@
+01:53:36: Item(From Order:00000030): 000016 is take by Kitchen and will in progrss soon
+01:53:36: Chef 2 is now working on 000016
+01:53:36: Item(From Order:00000030): 000022 is take by Kitchen and will in progrss soon
+01:53:36: Chef 1 is now working on 000022
+01:53:36: Item(From Order:00000030): 000030 is take by Kitchen and will in progrss soon
+01:53:36: Chef 0 is now working on 000030
+01:53:36: Chef 0 Has Finish 000030 Chicken. Carrot & pea soup 12.99 2
+01:53:36: Chef 1 Has Finish 000005 Chocolate & almond pavlovas with cherry & chocolate sauces 5.99 1
+01:53:36: Chef 2 Has Finish 000010 Beetroot & chickpea salad 6.99 1
+01:53:36: Item(From Order:00000030): 000010 is take by Kitchen and will in progrss soon
+01:53:36: Chef 2 is now working on 000010
+01:53:36: Item(From Order:00000030): 000005 is take by Kitchen and will in progrss soon
+01:53:36: Chef 1 is now working on 000005
+01:53:36: Item(From Order:00000030): 000030 is take by Kitchen and will in progrss soon
+01:53:36: Chef 0 is now working on 000030
+01:53:36: Chef 0 Has Finish 000017 Filo tartlets with Mediterranean vegetables & haloumi 8.99 2
+01:53:36: Item(From Order:00000029): 000017 is take by Kitchen and will in progrss soon
+01:53:36: Chef 0 is now working on 000017
+01:53:36: Chef 0 Has Finish 000017 Filo tartlets with Mediterranean vegetables & haloumi 8.99 2
+01:53:36: Chef 1 Has Finish 000018 Spiced gurnard & prawn pilaf 6.99 1
+01:53:36: Chef 2 Has Finish 000020 Green pea & miso soup 12.99 1
+01:53:36: Item(From Order:00000029): 000020 is take by Kitchen and will in progrss soon
+01:53:36: Chef 2 is now working on 000020
+01:53:36: Item(From Order:00000029): 000018 is take by Kitchen and will in progrss soon
+01:53:36: Chef 1 is now working on 000018
+01:53:36: Item(From Order:00000029): 000017 is take by Kitchen and will in progrss soon
+01:53:36: Chef 0 is now working on 000017
+01:53:36: Chef 0 Has Finish 000025 Lemon custard & meringue 3.99 1
+01:53:36: Chef 1 Has Finish 000023 Smoked fish with Middle Eastern chickpea salad & green olive dressing 15.99 1
+01:53:36: Chef 2 Has Finish 000027 Chinese chicken with ham. Prawns. Sticky rice & pickled vegetables 14.99 1
+01:53:36: Item(From Order:00000027): 000027 is take by Kitchen and will in progrss soon
+01:53:36: Chef 2 is now working on 000027
+01:53:36: Item(From Order:00000027): 000023 is take by Kitchen and will in progrss soon
+01:53:36: Chef 1 is now working on 000023
+01:53:36: Item(From Order:00000027): 000025 is take by Kitchen and will in progrss soon
+01:53:36: Chef 0 is now working on 000025
+01:53:36: The Table:5 Has been added to the Table List(10)
+01:53:36: The Table:5 Has been accept to join to the list
+01:53:36: The Table:5 Has been accept to join to the list
+01:53:36: Chef 2 Has Finish 000015 Tequila Mockingbird's herbal margarita 5.99 1
+01:53:36: Item(From Order:00000025): 000015 is take by Kitchen and will in progrss soon
+01:53:36: Chef 2 is now working on 000015
+01:53:36: Chef 0 Has Finish 000001 Smoky pork cutlets with corn black bean & cucumber salad 10.99 1
+01:53:36: Chef 1 Has Finish 000003 Harbourside's Down the Islands cocktail 5.99 1
+01:53:36: Chef 2 Has Finish 000007 Chocolate roulade with hazelnut cream & hazelnut croquant 7.99 1
+01:53:36: Item(From Order:00000025): 000007 is take by Kitchen and will in progrss soon
+01:53:36: Chef 2 is now working on 000007
+01:53:36: Item(From Order:00000025): 000003 is take by Kitchen and will in progrss soon
+01:53:36: Chef 1 is now working on 000003
+01:53:36: Item(From Order:00000025): 000001 is take by Kitchen and will in progrss soon
+01:53:36: Chef 0 is now working on 000001
+01:53:36: The Table:4 Has been added to the Table List(10)
+01:53:36: The Table:4 Has been accept to join to the list
+01:53:36: The Table:4 Has been accept to join to the list
+01:53:36: Chef 0 Has Finish 000013 Spatchcocked barbecued chicken with preserved lemon butter 9.99 1
+01:53:36: Chef 2 Has Finish 000024 Mint-marinated lamb with Vietnamese noodle salad 8.99 1
+01:53:36: Chef 1 Has Finish 000028 The gin trap cocktail 7.99 1
+01:53:36: Item(From Order:00000024): 000013 is take by Kitchen and will in progrss soon
+01:53:36: Chef 0 is now working on 000013
+01:53:36: Chef 0 Has Finish 000002 Teriyaki salmon with somen noodle salad 7.99 2
+01:53:36: Item(From Order:00000024): 000024 is take by Kitchen and will in progrss soon
+01:53:36: Chef 2 is now working on 000024
+01:53:36: Item(From Order:00000024): 000028 is take by Kitchen and will in progrss soon
+01:53:36: Chef 1 is now working on 000028
+01:53:36: Chef 1 Has Finish 000031 Warm Jerusalem artichoke & prosciutto salad 10.99 1
+01:53:36: Chef 2 Has Finish 000006 Sichuan pepper & cumin lamb with cucumber pickle 11.99 1
+01:53:36: Item(From Order:00000024): 000002 is take by Kitchen and will in progrss soon
+01:53:36: Chef 0 is now working on 000002
+01:53:36: Chef 0 Has Finish 000002 Teriyaki salmon with somen noodle salad 7.99 2
+01:53:36: Item(From Order:00000024): 000006 is take by Kitchen and will in progrss soon
+01:53:36: Chef 2 is now working on 000006
+01:53:36: Item(From Order:00000024): 000031 is take by Kitchen and will in progrss soon
+01:53:36: Chef 1 is now working on 000031
+01:53:36: Item(From Order:00000024): 000002 is take by Kitchen and will in progrss soon
+01:53:36: Chef 0 is now working on 000002
+01:53:36: The order(00000036) has take a Table: 6
+01:53:36: The Table:6 Has been added to the Table List(10)
+01:53:36: The Table:6 Has been accept to join to the list
+01:53:36: The order(00000035) has take a Table: 5
+01:53:36: The Table:5 Has been added to the Table Queue List(2) Wating for the current table finish
+01:53:36: The Table:5 Is valid table but current list is full. Ready to join the Table queue
+01:53:36: The order(00000034) has take a Table: 4
+01:53:36: The Table:4 Has been added to the Table Queue List(1) Wating for the current table finish
+01:53:36: The Table:4 Is valid table but current list is full. Ready to join the Table queue
+01:53:36: The order(00000033) has take a Table: 3
+01:53:36: The Table:3 Has been added to the Table List(9)
+01:53:36: The Table:3 Has been accept to join to the list
+01:53:36: The order(00000032) has take a Table: 2
+01:53:36: The Table:2 Has been added to the Table List(8)
+01:53:36: The Table:2 Has been accept to join to the list
+01:53:36: The order(00000031) has take a Table: 1
+01:53:36: The Table:1 Has been added to the Table List(7)
+01:53:36: The Table:1 Has been accept to join to the list
+01:53:36: The order(00000030) has take a Table: 10
+01:53:36: The Table:10 Has been added to the Table List(6)
+01:53:36: The Table:10 Has been accept to join to the list
+01:53:36: The order(00000029) has take a Table: 9
+01:53:36: The Table:9 Has been added to the Table List(5)
+01:53:36: The Table:9 Has been accept to join to the list
+01:53:36: The order(00000028) has take a Table: 8
+01:53:36: The Table:8 Has been added to the Table List(4)
+01:53:36: The Table:8 Has been accept to join to the list
+01:53:36: The order(00000027) has take a Table: 7
+01:53:36: The Table:7 Has been added to the Table List(3)
+01:53:36: The Table:7 Has been accept to join to the list
+01:53:36: The order(00000025) has take a Table: 5
+01:53:36: The Table:5 Has been added to the Table List(2)
+01:53:36: The Table:5 Has been accept to join to the list
+01:53:36: The order(00000024) has take a Table: 4
+01:53:36: The Table:4 Has been added to the Table List(1)
+01:53:36: The Table:4 Has been accept to join to the list
+

@@ -1,0 +1,43 @@
+19:24:21: Item(From Order:00000024): 000006 is take by Kitchen and will in progrss soon
+19:24:21: Chef 2 is now working on 000006
+19:24:21: Item(From Order:00000024): 000031 is take by Kitchen and will in progrss soon
+19:24:21: Chef 1 is now working on 000031
+19:24:21: Item(From Order:00000024): 000002 is take by Kitchen and will in progrss soon
+19:24:21: Chef 0 is now working on 000002
+19:24:21: The order(00000036) has take a Table: 6
+19:24:21: The Table:6 Has been added to the Table List(10)
+19:24:21: The Table:6 Has been accept to join to the list
+19:24:21: The order(00000035) has take a Table: 5
+19:24:21: The Table:5 Has been added to the Table Queue List(2) Wating for the current table finish
+19:24:21: The Table:5 Is valid table but current list is full. Ready to join the Table queue
+19:24:21: The order(00000034) has take a Table: 4
+19:24:21: The Table:4 Has been added to the Table Queue List(1) Wating for the current table finish
+19:24:21: The Table:4 Is valid table but current list is full. Ready to join the Table queue
+19:24:21: The order(00000033) has take a Table: 3
+19:24:21: The Table:3 Has been added to the Table List(9)
+19:24:21: The Table:3 Has been accept to join to the list
+19:24:21: The order(00000032) has take a Table: 2
+19:24:21: The Table:2 Has been added to the Table List(8)
+19:24:21: The Table:2 Has been accept to join to the list
+19:24:21: The order(00000031) has take a Table: 1
+19:24:21: The Table:1 Has been added to the Table List(7)
+19:24:21: The Table:1 Has been accept to join to the list
+19:24:21: The order(00000030) has take a Table: 10
+19:24:21: The Table:10 Has been added to the Table List(6)
+19:24:21: The Table:10 Has been accept to join to the list
+19:24:21: The order(00000029) has take a Table: 9
+19:24:21: The Table:9 Has been added to the Table List(5)
+19:24:21: The Table:9 Has been accept to join to the list
+19:24:21: The order(00000028) has take a Table: 8
+19:24:21: The Table:8 Has been added to the Table List(4)
+19:24:21: The Table:8 Has been accept to join to the list
+19:24:21: The order(00000027) has take a Table: 7
+19:24:21: The Table:7 Has been added to the Table List(3)
+19:24:21: The Table:7 Has been accept to join to the list
+19:24:21: The order(00000025) has take a Table: 5
+19:24:21: The Table:5 Has been added to the Table List(2)
+19:24:21: The Table:5 Has been accept to join to the list
+19:24:21: The order(00000024) has take a Table: 4
+19:24:21: The Table:4 Has been added to the Table List(1)
+19:24:21: The Table:4 Has been accept to join to the list
+

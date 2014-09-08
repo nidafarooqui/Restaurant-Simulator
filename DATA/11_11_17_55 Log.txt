@@ -1,0 +1,13 @@
+11:17:55: The order(00000036) has take a Table: 6
+11:17:55: The order(00000035) has take a Table: 5
+11:17:55: The order(00000034) has take a Table: 4
+11:17:55: The order(00000033) has take a Table: 3
+11:17:55: The order(00000032) has take a Table: 2
+11:17:55: The order(00000031) has take a Table: 1
+11:17:55: The order(00000030) has take a Table: 10
+11:17:55: The order(00000029) has take a Table: 9
+11:17:55: The order(00000028) has take a Table: 8
+11:17:55: The order(00000027) has take a Table: 7
+11:17:55: The order(00000025) has take a Table: 5
+11:17:55: The order(00000024) has take a Table: 4
+

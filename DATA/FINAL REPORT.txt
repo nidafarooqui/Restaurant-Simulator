@@ -1,0 +1,813 @@
+                                        MENU                                               
+ID     Name                                                                            Price(£)  
+=============================================================================================
+
+STARTER
+000002 Teriyaki salmon with somen noodle salad                                         £7.99     
+000008 Roast kumara salad with mint & honey dressing                                   £6.99     
+000010 Beetroot & chickpea salad                                                       £6.99     
+000012 Strawberry & lemon curd charlotte royale                                        £9.99     
+000014 Grilled soy. ginger & chilli paua with green beans                              £8.99     
+000019 Pumpkin & chorizo rigatoni                                                      £7.99     
+000020 Green pea & miso soup                                                           £12.99    
+000026 Chargrilled fennel-salt pork with apple & pecan salad                           £7.99     
+000030 Chicken. Carrot & pea soup                                                      £12.99    
+
+
+MAIN
+000001 Smoky pork cutlets with corn black bean & cucumber salad                        £10.99    
+000004 Steamed blue cod with chilli sauce & lettuce                                    £10.99    
+000006 Sichuan pepper & cumin lamb with cucumber pickle                                £11.99    
+000013 Spatchcocked barbecued chicken with preserved lemon butter                      £9.99     
+000016 Braised Moroccan-style lamb shanks & tomato couscous                            £13.99    
+000018 Spiced gurnard & prawn pilaf                                                    £6.99     
+000021 Stuffed chicken thighs with spring vegetables                                   £9.99     
+000023 Smoked fish with Middle Eastern chickpea salad & green olive dressing           £15.99    
+000024 Mint-marinated lamb with Vietnamese noodle salad                                £8.99     
+000027 Chinese chicken with ham. Prawns. Sticky rice & pickled vegetables              £14.99    
+000029 Oregano roasted chicken with pumpkin & cauliflower                              £13.99    
+000032 Slice of leaven                                                                 £9.99     
+
+
+DESSERT
+000005 Chocolate & almond pavlovas with cherry & chocolate sauces                      £5.99     
+000007 Chocolate roulade with hazelnut cream & hazelnut croquant                       £7.99     
+000009 Vegetable & cheese torta                                                        £4.99     
+000011 Ginger bread with maple-brandy butter (plus reindeer stencil)                   £8.99     
+000017 Filo tartlets with Mediterranean vegetables & haloumi                           £8.99     
+000022 Caramel popcorn                                                                 £4.99     
+000025 Lemon custard & meringue                                                        £3.99     
+000031 Warm Jerusalem artichoke & prosciutto salad                                     £10.99    
+
+
+DRINKS
+000003 Harbourside's Down the Islands cocktail                                         £5.99     
+000015 Tequila Mockingbird's herbal margarita                                          £5.99     
+000028 The gin trap cocktail                                                           £7.99     
+
+
+
+FREQUENCY REPORT
+==================================================================================================
+000013 Spatchcocked barbecued chicken with preserved lemon butter                      7         
+000017 Filo tartlets with Mediterranean vegetables & haloumi                           10        
+000006 Sichuan pepper & cumin lamb with cucumber pickle                                5         
+000021 Stuffed chicken thighs with spring vegetables                                   5         
+000032 Slice of leaven                                                                 2         
+000023 Smoked fish with Middle Eastern chickpea salad & green olive dressing           6         
+000010 Beetroot & chickpea salad                                                       3         
+000016 Braised Moroccan-style lamb shanks & tomato couscous                            3         
+000007 Chocolate roulade with hazelnut cream & hazelnut croquant                       15        
+000019 Pumpkin & chorizo rigatoni                                                      2         
+000025 Lemon custard & meringue                                                        7         
+000005 Chocolate & almond pavlovas with cherry & chocolate sauces                      3         
+000002 Teriyaki salmon with somen noodle salad                                         32        
+000031 Warm Jerusalem artichoke & prosciutto salad                                     7         
+000001 Smoky pork cutlets with corn black bean & cucumber salad                        17        
+000015 Tequila Mockingbird's herbal margarita                                          19        
+000026 Chargrilled fennel-salt pork with apple & pecan salad                           6         
+000028 The gin trap cocktail                                                           3         
+000027 Chinese chicken with ham. Prawns. Sticky rice & pickled vegetables              1         
+000024 Mint-marinated lamb with Vietnamese noodle salad                                6         
+000018 Spiced gurnard & prawn pilaf                                                    5         
+000022 Caramel popcorn                                                                 3         
+000014 Grilled soy. ginger & chilli paua with green beans                              2         
+000011 Ginger bread with maple-brandy butter (plus reindeer stencil)                   2         
+000020 Green pea & miso soup                                                           2         
+000030 Chicken. Carrot & pea soup                                                      8         
+000012 Strawberry & lemon curd charlotte royale                                        1         
+000008 Roast kumara salad with mint & honey dressing                                   2         
+000003 Harbourside's Down the Islands cocktail                                         19        
+000009 Vegetable & cheese torta                                                        2         
+000004 Steamed blue cod with chilli sauce & lettuce                                    2         
+
+
+DISHES NOT ORDERED
+==================================================================================================
+000029 Oregano roasted chicken with pumpkin & cauliflower                              
+
+
+
+TABLE SUMMARY
+
+                              Receipt
+==========================================================
+Order Number:   00000001  
+Table Number:   1         
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000007    Chocolate roulade with hazelnut cream & hazelnut croquant             1         7.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+----------------------------------------------------------
+Total:              £46.94    
+The money you save: £0.0      
+The cost:           £46.94    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000002  
+Table Number:   2         
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000016    Braised Moroccan-style lamb shanks & tomato couscous                  1         13.99     
+000018    Spiced gurnard & prawn pilaf                                          1         6.99      
+000019    Pumpkin & chorizo rigatoni                                            1         7.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+----------------------------------------------------------
+Total:              £45.95    
+The money you save: £0.0      
+The cost:           £45.95    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000003  
+Table Number:   3         
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  3         
+----------------------------------------------------------
+000004    Steamed blue cod with chilli sauce & lettuce                          1         10.99     
+000016    Braised Moroccan-style lamb shanks & tomato couscous                  1         13.99     
+000013    Spatchcocked barbecued chicken with preserved lemon butter            1         9.99      
+----------------------------------------------------------
+Total:              £34.97    
+The money you save: £0.0      
+The cost:           £34.97    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000004  
+Table Number:   4         
+Order Discount: 10.0      % Off
+Order Status:   Completed 
+Ordered Items:  7         
+----------------------------------------------------------
+000022    Caramel popcorn                                                       1         4.99      
+000025    Lemon custard & meringue                                              1         3.99      
+000023    Smoked fish with Middle Eastern chickpea salad & green olive dressing 1         15.99     
+000032    Slice of leaven                                                       1         9.99      
+000010    Beetroot & chickpea salad                                             1         6.99      
+000008    Roast kumara salad with mint & honey dressing                         1         6.99      
+000006    Sichuan pepper & cumin lamb with cucumber pickle                      1         11.99     
+----------------------------------------------------------
+Total:              £60.93    
+The money you save: £6.09     
+The cost:           £54.84    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000005  
+Table Number:   5         
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000007    Chocolate roulade with hazelnut cream & hazelnut croquant             1         7.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+----------------------------------------------------------
+Total:              £46.94    
+The money you save: £0.0      
+The cost:           £46.94    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000006  
+Table Number:   6         
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  4         
+----------------------------------------------------------
+000007    Chocolate roulade with hazelnut cream & hazelnut croquant             1         7.99      
+000012    Strawberry & lemon curd charlotte royale                              1         9.99      
+000013    Spatchcocked barbecued chicken with preserved lemon butter            1         9.99      
+000017    Filo tartlets with Mediterranean vegetables & haloumi                 2         17.98     
+----------------------------------------------------------
+Total:              £45.95    
+The money you save: £0.0      
+The cost:           £45.95    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000007  
+Table Number:   7         
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  6         
+----------------------------------------------------------
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000007    Chocolate roulade with hazelnut cream & hazelnut croquant             1         7.99      
+000031    Warm Jerusalem artichoke & prosciutto salad                           1         10.99     
+000032    Slice of leaven                                                       1         9.99      
+----------------------------------------------------------
+Total:              £61.93    
+The money you save: £0.0      
+The cost:           £61.93    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000008  
+Table Number:   8         
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  8         
+----------------------------------------------------------
+000025    Lemon custard & meringue                                              1         3.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+000031    Warm Jerusalem artichoke & prosciutto salad                           1         10.99     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000023    Smoked fish with Middle Eastern chickpea salad & green olive dressing 1         15.99     
+000024    Mint-marinated lamb with Vietnamese noodle salad                      1         8.99      
+000017    Filo tartlets with Mediterranean vegetables & haloumi                 2         17.98     
+000031    Warm Jerusalem artichoke & prosciutto salad                           1         10.99     
+----------------------------------------------------------
+Total:              £80.91    
+The money you save: £0.0      
+The cost:           £80.91    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000009  
+Table Number:   9         
+Order Discount: 20.0      % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000007    Chocolate roulade with hazelnut cream & hazelnut croquant             1         7.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+----------------------------------------------------------
+Total:              £46.94    
+The money you save: £9.39     
+The cost:           £37.55    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000010  
+Table Number:   10        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  7         
+----------------------------------------------------------
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+000005    Chocolate & almond pavlovas with cherry & chocolate sauces            1         5.99      
+000030    Chicken. Carrot & pea soup                                            2         25.98     
+000010    Beetroot & chickpea salad                                             1         6.99      
+000025    Lemon custard & meringue                                              1         3.99      
+000024    Mint-marinated lamb with Vietnamese noodle salad                      1         8.99      
+000004    Steamed blue cod with chilli sauce & lettuce                          1         10.99     
+----------------------------------------------------------
+Total:              £68.92    
+The money you save: £0.0      
+The cost:           £68.92    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000011  
+Table Number:   11        
+Order Discount: 0.0       % Off
+Order Status:   Canceled  
+Ordered Items:  4         
+----------------------------------------------------------
+000026    Chargrilled fennel-salt pork with apple & pecan salad                 1         7.99      
+000008    Roast kumara salad with mint & honey dressing                         1         6.99      
+000021    Stuffed chicken thighs with spring vegetables                         1         9.99      
+000006    Sichuan pepper & cumin lamb with cucumber pickle                      1         11.99     
+----------------------------------------------------------
+Total:              £36.96    
+The money you save: £0.0      
+The cost:           £36.96    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000012  
+Table Number:   12        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000028    The gin trap cocktail                                                 1         7.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+000013    Spatchcocked barbecued chicken with preserved lemon butter            1         9.99      
+000028    The gin trap cocktail                                                 1         7.99      
+000009    Vegetable & cheese torta                                              1         4.99      
+----------------------------------------------------------
+Total:              £36.95    
+The money you save: £0.0      
+The cost:           £36.95    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000013  
+Table Number:   13        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  6         
+----------------------------------------------------------
+000013    Spatchcocked barbecued chicken with preserved lemon butter            1         9.99      
+000021    Stuffed chicken thighs with spring vegetables                         1         9.99      
+000028    The gin trap cocktail                                                 1         7.99      
+000026    Chargrilled fennel-salt pork with apple & pecan salad                 1         7.99      
+000013    Spatchcocked barbecued chicken with preserved lemon butter            1         9.99      
+000021    Stuffed chicken thighs with spring vegetables                         1         9.99      
+----------------------------------------------------------
+Total:              £55.94    
+The money you save: £0.0      
+The cost:           £55.94    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000014  
+Table Number:   14        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000031    Warm Jerusalem artichoke & prosciutto salad                           1         10.99     
+000024    Mint-marinated lamb with Vietnamese noodle salad                      1         8.99      
+000019    Pumpkin & chorizo rigatoni                                            1         7.99      
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+----------------------------------------------------------
+Total:              £44.95    
+The money you save: £0.0      
+The cost:           £44.95    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000015  
+Table Number:   15        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  2         
+----------------------------------------------------------
+000023    Smoked fish with Middle Eastern chickpea salad & green olive dressing 1         15.99     
+000021    Stuffed chicken thighs with spring vegetables                         1         9.99      
+----------------------------------------------------------
+Total:              £25.98    
+The money you save: £0.0      
+The cost:           £25.98    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000016  
+Table Number:   16        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000006    Sichuan pepper & cumin lamb with cucumber pickle                      1         11.99     
+000031    Warm Jerusalem artichoke & prosciutto salad                           1         10.99     
+000026    Chargrilled fennel-salt pork with apple & pecan salad                 1         7.99      
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000009    Vegetable & cheese torta                                              1         4.99      
+----------------------------------------------------------
+Total:              £41.95    
+The money you save: £0.0      
+The cost:           £41.95    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000017  
+Table Number:   17        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000007    Chocolate roulade with hazelnut cream & hazelnut croquant             1         7.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+----------------------------------------------------------
+Total:              £46.94    
+The money you save: £0.0      
+The cost:           £46.94    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000018  
+Table Number:   18        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000007    Chocolate roulade with hazelnut cream & hazelnut croquant             1         7.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+----------------------------------------------------------
+Total:              £46.94    
+The money you save: £0.0      
+The cost:           £46.94    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000019  
+Table Number:   19        
+Order Discount: 0.0       % Off
+Order Status:   Canceled  
+Ordered Items:  5         
+----------------------------------------------------------
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000007    Chocolate roulade with hazelnut cream & hazelnut croquant             1         7.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+----------------------------------------------------------
+Total:              £46.94    
+The money you save: £0.0      
+The cost:           £46.94    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000020  
+Table Number:   20        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  4         
+----------------------------------------------------------
+000011    Ginger bread with maple-brandy butter (plus reindeer stencil)         2         17.98     
+000024    Mint-marinated lamb with Vietnamese noodle salad                      1         8.99      
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000018    Spiced gurnard & prawn pilaf                                          1         6.99      
+----------------------------------------------------------
+Total:              £39.95    
+The money you save: £0.0      
+The cost:           £39.95    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000021  
+Table Number:   21        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000006    Sichuan pepper & cumin lamb with cucumber pickle                      1         11.99     
+000023    Smoked fish with Middle Eastern chickpea salad & green olive dressing 1         15.99     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000030    Chicken. Carrot & pea soup                                            2         25.98     
+000014    Grilled soy. ginger & chilli paua with green beans                    1         8.99      
+----------------------------------------------------------
+Total:              £78.93    
+The money you save: £0.0      
+The cost:           £78.93    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000022  
+Table Number:   22        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  4         
+----------------------------------------------------------
+000021    Stuffed chicken thighs with spring vegetables                         1         9.99      
+000025    Lemon custard & meringue                                              1         3.99      
+000026    Chargrilled fennel-salt pork with apple & pecan salad                 1         7.99      
+000017    Filo tartlets with Mediterranean vegetables & haloumi                 2         17.98     
+----------------------------------------------------------
+Total:              £39.95    
+The money you save: £0.0      
+The cost:           £39.95    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000023  
+Table Number:   23        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000018    Spiced gurnard & prawn pilaf                                          1         6.99      
+000026    Chargrilled fennel-salt pork with apple & pecan salad                 1         7.99      
+000025    Lemon custard & meringue                                              1         3.99      
+000014    Grilled soy. ginger & chilli paua with green beans                    1         8.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+----------------------------------------------------------
+Total:              £33.95    
+The money you save: £0.0      
+The cost:           £33.95    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000024  
+Table Number:   24        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000007    Chocolate roulade with hazelnut cream & hazelnut croquant             1         7.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+----------------------------------------------------------
+Total:              £46.94    
+The money you save: £0.0      
+The cost:           £46.94    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000025  
+Table Number:   25        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000007    Chocolate roulade with hazelnut cream & hazelnut croquant             1         7.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+----------------------------------------------------------
+Total:              £46.94    
+The money you save: £0.0      
+The cost:           £46.94    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000026  
+Table Number:   26        
+Order Discount: 0.0       % Off
+Order Status:   Canceled  
+Ordered Items:  5         
+----------------------------------------------------------
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000007    Chocolate roulade with hazelnut cream & hazelnut croquant             1         7.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+----------------------------------------------------------
+Total:              £46.94    
+The money you save: £0.0      
+The cost:           £46.94    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000027  
+Table Number:   27        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  6         
+----------------------------------------------------------
+000025    Lemon custard & meringue                                              1         3.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+000023    Smoked fish with Middle Eastern chickpea salad & green olive dressing 1         15.99     
+000027    Chinese chicken with ham. Prawns. Sticky rice & pickled vegetables    1         14.99     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000013    Spatchcocked barbecued chicken with preserved lemon butter            1         9.99      
+----------------------------------------------------------
+Total:              £66.93    
+The money you save: £0.0      
+The cost:           £66.93    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000028  
+Table Number:   28        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000007    Chocolate roulade with hazelnut cream & hazelnut croquant             1         7.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+----------------------------------------------------------
+Total:              £46.94    
+The money you save: £0.0      
+The cost:           £46.94    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000029  
+Table Number:   29        
+Order Discount: 0.0       % Off
+Order Status:   Completed 
+Ordered Items:  4         
+----------------------------------------------------------
+000023    Smoked fish with Middle Eastern chickpea salad & green olive dressing 1         15.99     
+000017    Filo tartlets with Mediterranean vegetables & haloumi                 2         17.98     
+000018    Spiced gurnard & prawn pilaf                                          1         6.99      
+000020    Green pea & miso soup                                                 1         12.99     
+----------------------------------------------------------
+Total:              £53.95    
+The money you save: £0.0      
+The cost:           £53.95    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000030  
+Table Number:   30        
+Order Discount: 10.0      % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000030    Chicken. Carrot & pea soup                                            2         25.98     
+000005    Chocolate & almond pavlovas with cherry & chocolate sauces            1         5.99      
+000010    Beetroot & chickpea salad                                             1         6.99      
+000022    Caramel popcorn                                                       1         4.99      
+000016    Braised Moroccan-style lamb shanks & tomato couscous                  1         13.99     
+----------------------------------------------------------
+Total:              £57.94    
+The money you save: £5.79     
+The cost:           £52.15    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000031  
+Table Number:   31        
+Order Discount: 10.0      % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000020    Green pea & miso soup                                                 1         12.99     
+000026    Chargrilled fennel-salt pork with apple & pecan salad                 1         7.99      
+000007    Chocolate roulade with hazelnut cream & hazelnut croquant             1         7.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+----------------------------------------------------------
+Total:              £45.95    
+The money you save: £4.59     
+The cost:           £41.36    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000032  
+Table Number:   32        
+Order Discount: 10.0      % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000007    Chocolate roulade with hazelnut cream & hazelnut croquant             1         7.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+----------------------------------------------------------
+Total:              £46.94    
+The money you save: £4.69     
+The cost:           £42.25    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000033  
+Table Number:   33        
+Order Discount: 5.0       % Off
+Order Status:   Completed 
+Ordered Items:  8         
+----------------------------------------------------------
+000017    Filo tartlets with Mediterranean vegetables & haloumi                 2         17.98     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000022    Caramel popcorn                                                       1         4.99      
+000024    Mint-marinated lamb with Vietnamese noodle salad                      1         8.99      
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000013    Spatchcocked barbecued chicken with preserved lemon butter            1         9.99      
+000018    Spiced gurnard & prawn pilaf                                          1         6.99      
+000031    Warm Jerusalem artichoke & prosciutto salad                           1         10.99     
+----------------------------------------------------------
+Total:              £86.9     
+The money you save: £4.34     
+The cost:           £82.55    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000034  
+Table Number:   34        
+Order Discount: 10.0      % Off
+Order Status:   Completed 
+Ordered Items:  5         
+----------------------------------------------------------
+000001    Smoky pork cutlets with corn black bean & cucumber salad              1         10.99     
+000002    Teriyaki salmon with somen noodle salad                               2         15.98     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000007    Chocolate roulade with hazelnut cream & hazelnut croquant             1         7.99      
+000015    Tequila Mockingbird's herbal margarita                                1         5.99      
+----------------------------------------------------------
+Total:              £46.94    
+The money you save: £4.69     
+The cost:           £42.25    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000035  
+Table Number:   35        
+Order Discount: 20.0      % Off
+Order Status:   Uncompleted
+Ordered Items:  3         
+----------------------------------------------------------
+000006    Sichuan pepper & cumin lamb with cucumber pickle                      1         11.99     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000025    Lemon custard & meringue                                              1         3.99      
+----------------------------------------------------------
+Total:              £21.97    
+The money you save: £4.39     
+The cost:           £17.58    
+========================Recepit End=======================
+
+
+                              Receipt
+==========================================================
+Order Number:   00000036  
+Table Number:   36        
+Order Discount: 5.0       % Off
+Order Status:   Uncompleted
+Ordered Items:  5         
+----------------------------------------------------------
+000030    Chicken. Carrot & pea soup                                            2         25.98     
+000024    Mint-marinated lamb with Vietnamese noodle salad                      1         8.99      
+000031    Warm Jerusalem artichoke & prosciutto salad                           1         10.99     
+000003    Harbourside's Down the Islands cocktail                               1         5.99      
+000005    Chocolate & almond pavlovas with cherry & chocolate sauces            1         5.99      
+----------------------------------------------------------
+Total:              £57.94    
+The money you save: £2.9      
+The cost:           £55.04    
+========================Recepit End=======================
+
+

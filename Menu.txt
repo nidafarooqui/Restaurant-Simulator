@@ -1,0 +1,32 @@
+000001,Smoky pork cutlets with corn black bean & cucumber salad,MAIN,10.99
+000002,Teriyaki salmon with somen noodle salad,STARTER,7.99
+000003,Harbourside's Down the Islands cocktail,DRINK,5.99
+000004,Steamed blue cod with chilli sauce & lettuce,MAIN,10.99
+000005,Chocolate & almond pavlovas with cherry & chocolate sauces,DESSERT,5.99
+000006,Sichuan pepper & cumin lamb with cucumber pickle,MAIN,11.99
+000007,Chocolate roulade with hazelnut cream & hazelnut croquant,DESSERT,7.99
+000008,Roast kumara salad with mint & honey dressing,STARTER,6.99
+000009,Vegetable & cheese torta,DESSERT,4.99
+000010,Beetroot & chickpea salad,STARTER,6.99
+000011,Ginger bread with maple-brandy butter (plus reindeer stencil),DESSERT,8.99
+000012,Strawberry & lemon curd charlotte royale,STARTER,9.99
+000013,Spatchcocked barbecued chicken with preserved lemon butter,MAIN,9.99
+000014,Grilled soy. ginger & chilli paua with green beans,STARTER,8.99
+000015,Tequila Mockingbird's herbal margarita,DRINK,5.99
+000016,Braised Moroccan-style lamb shanks & tomato couscous,MAIN,13.99
+000017,Filo tartlets with Mediterranean vegetables & haloumi,DESSERT,8.99
+000018,Spiced gurnard & prawn pilaf,MAIN,6.99
+000019,Pumpkin & chorizo rigatoni,STARTER,7.99
+000020,Green pea & miso soup,STARTER,12.99
+000021,Stuffed chicken thighs with spring vegetables,MAIN,9.99
+000022,Caramel popcorn,DESSERT,4.99
+000023,Smoked fish with Middle Eastern chickpea salad & green olive dressing,MAIN,15.99
+000024,Mint-marinated lamb with Vietnamese noodle salad,MAIN,8.99
+000025,Lemon custard & meringue,DESSERT,3.99
+000026,Chargrilled fennel-salt pork with apple & pecan salad,STARTER,7.99
+000027,Chinese chicken with ham. Prawns. Sticky rice & pickled vegetables,MAIN,14.99
+000028,The gin trap cocktail,DRINK,7.99
+000029,Oregano roasted chicken with pumpkin & cauliflower,MAIN,13.99
+000030,Chicken. Carrot & pea soup,STARTER,12.99
+000031,Warm Jerusalem artichoke & prosciutto salad,DESSERT,10.99
+000032,Slice of leaven,MAIN,9.99
